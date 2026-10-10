@@ -4,7 +4,7 @@
 
 Give it a raw event log. It explores the data, builds the funnel, finds where and *why* users drop off, designs A/B tests with real sample sizes, and hands you a founder-ready report. You don't script the analysis steps; the agent decides what to investigate next.
 
-📄 **[See a sample report →](Examples/report.html)** · Built with the [Claude Agent SDK](https://docs.claude.com/en/docs/agent-sdk/overview)
+📄 **[See a sample report →](https://thepalakgupta.github.io/funnel-doctor/Examples/report.html)** · Built with the [Claude Agent SDK](https://docs.claude.com/en/docs/agent-sdk/overview)
 
 ---
 
