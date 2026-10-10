@@ -1,0 +1,54 @@
+{
+  "primary": {
+    "label": "All users",
+    "all_users": 40382,
+    "viewed": 39269,
+    "viewed_carted": 12596,
+    "viewed_carted_bought": 2395,
+    "view_to_cart": 0.32076192416409893,
+    "cart_to_buy": 0.19013972689742775,
+    "overall": 0.0609895846596552
+  },
+  "loose": {
+    "users": 40382,
+    "viewed": 39269,
+    "carted": 13637,
+    "bought": 2589
+  },
+  "spike_cohort": {
+    "label": "Users first seen Oct 2/6/7 (spike)",
+    "all_users": 8318,
+    "viewed": 8194,
+    "viewed_carted": 5373,
+    "viewed_carted_bought": 370,
+    "view_to_cart": 0.6557237002684891,
+    "cart_to_buy": 0.06886283268192817,
+    "overall": 0.04515499145716378
+  },
+  "non_spike": {
+    "label": "All other users",
+    "all_users": 32064,
+    "viewed": 31075,
+    "viewed_carted": 7223,
+    "viewed_carted_bought": 2025,
+    "view_to_cart": 0.2324376508447305,
+    "cart_to_buy": 0.28035442336979094,
+    "overall": 0.06516492357200322
+  },
+  "no_heavy": {
+    "label": "Excl. 37 users with >500 events",
+    "all_users": 40351,
+    "viewed": 39239,
+    "viewed_carted": 12566,
+    "viewed_carted_bought": 2367,
+    "view_to_cart": 0.32024261576492774,
+    "cart_to_buy": 0.1883654305268184,
+    "overall": 0.0603226381915951
+  },
+  "session": {
+    "sessions": 88799,
+    "viewed": 84018,
+    "viewed_carted": 19424,
+    "bought": 2029
+  }
+}

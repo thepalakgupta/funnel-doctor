@@ -1,0 +1,7 @@
+.venv/
+data/
+output/
+output_v0/
+work/
+__pycache__/
+hello_agent.py
